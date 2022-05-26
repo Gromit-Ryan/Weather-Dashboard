@@ -2,11 +2,9 @@
 
 
 // Variables
-let cityOne = "Austin";
-let CityTwo = "Chicago";
-let cityThree = "New York";
-let cityFour = "Orlando";
-let cityFive = "San Francisco";
+let cities = ['Austin', 'Chicago', 'New York', 'Orlando', 'San Francisco'];
+let currentCity = '';
+let lastCity = '';
 
 // function for getting cities weather
 
